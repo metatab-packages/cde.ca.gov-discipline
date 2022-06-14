@@ -1,0 +1,72 @@
+Declare,metatab-latest
+Title,Student Discipline
+Description,Student discipline and the use of behavioral restraints and seclusion
+Description,"disaggregated by ethnicity, gender, program subgroup, and grade span."
+Identifier,3976043e-62af-42e3-a7de-765448656bc7
+Name,cde.org-discipline-1.1.2
+Dataset,discipline
+Origin,cde.org
+Time,
+Space,
+Grain,
+Variant,
+Version,1.1.2
+Version.Major,1
+Version.Minor,1
+Version.Patch,2
+Created,2022-06-14T17:07:48
+Modified,2022-06-14T17:47:03
+Giturl,https://github.com/metatab-packages/cde.ca.gov-collection.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+""
+Section,Documentation,Title,Description,Name
+Documentation,file:README.md,README,,
+Homepage,https://www.cde.ca.gov/ds/ad/discipline.asp,Displine Homepage,,
+Downloadpage,https://www.cde.ca.gov/ds/ad/filesed.asp,Expulsion data,,
+Downloadpage,https://www.cde.ca.gov/ds/ad/filessd.asp,Suspension data,,
+Downloadpage,https://www.cde.ca.gov/ds/ad/filesrsd.asp,Restraint and Seclusion Data,,
+Datadictionary,https://www.cde.ca.gov/ds/ad/fsrsd.asp,File Structure: Restraint and Seclusion Data,,
+Datadictionary,https://www.cde.ca.gov/ds/ad/fsed.asp,File Structure: Expulsion Data,,
+Datadictionary,https://www.cde.ca.gov/ds/ad/fssd.asp,File Structure: Suspension Data,,
+""
+Section,References,Name,Description,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp2021.txt,exp2021,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1920.txt,exp1920,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1819.txt,exp1819,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1718.txt,exp1718,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1617.txt,exp1617,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1516.txt,exp1516,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1415.txt,exp1415,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1314.txt,exp1314,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1213.txt,exp1213,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/exp1112.txt,exp1112,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp2021.txt,susp2021,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1920.txt,susp1920,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1819.txt,susp1819,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1718.txt,susp1718,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1617.txt,susp1617,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1516.txt,susp1516,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1415.txt,susp1415,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1314.txt,susp1314,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1213.txt,susp1213,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1112.txt,susp1112,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp2021.txt,susp2021,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1920.txt,susp1920,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1819.txt,susp1819,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1718.txt,susp1718,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1617.txt,susp1617,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1516.txt,susp1516,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1415.txt,susp1415,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1314.txt,susp1314,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1213.txt,susp1213,,
+Reference,https://www3.cde.ca.gov/demo-downloads/discipline/susp1112.txt,susp1112,,
+Reference,https://www.cde.ca.gov/ds/ad/documents/rsddata2021.xlsx,rsddata2021,,
+Reference,https://www.cde.ca.gov/ds/ad/documents/rsddata1920.xlsx,rsddata1920,,
+""
+Section,Resources,Name,Description,
+""
+Section,Schema,DataType,AltName,Description
+""
+Section,Documen,Name,Description,
